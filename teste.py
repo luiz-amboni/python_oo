@@ -4,7 +4,7 @@ def cria_conta(numero, titular, saldo, limite):
 
 def deposita(conta, valor):
     conta["saldo"] += valor
-2
+
 def saca(conta, valor):
     conta["saldo"] -= valor
 
