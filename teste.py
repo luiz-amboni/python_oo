@@ -10,4 +10,7 @@ def saca(conta, valor):
 
 def extrato(conta):
     print("saldo {}".format(conta["saldo"]))
+<<<<<<< HEAD
 
+=======
+>>>>>>> 999883c9ea4d4062e2510de078b584a0c926876b
